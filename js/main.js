@@ -1,6 +1,6 @@
  // Answers to the questions being asked
  var answers = ["Yup",
- "It is decidedly so", 
+ "It is decidedly so",
  "Without a doubt",
  "Definitely yeah",
  "Sure will",
@@ -14,7 +14,7 @@
  "Outlook is not so good",
  "Highly doubtful",
  "Lookin hazy, try again",
- "Ask again later", 
+ "Ask again later",
  "Wouldn't you like to know",
  "Prediction is not able to be made now",
  "Focus and type your question again"];
